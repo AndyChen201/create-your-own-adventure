@@ -2,3 +2,5 @@
 feel free to check it out and add me as friend, 谢谢！
 
 点击这里[here](https://www.douban.com/people/3279743/)访问我的主页。
+
+Hi, this is Andy Chen from China, I am very happy to use udacity to learn about github and contribute to the project.
